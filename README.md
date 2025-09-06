@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # CivicConnect Web App Design
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# CivicConnect
+>>>>>>> bdfb29ba48bcb7512d8676b2ffbb96fa7edba760
